@@ -1,4 +1,4 @@
-import { ComponentPropsWithoutRef, ReactNode } from "react";
+import { ComponentPropsWithoutRef } from "react";
 import clsx from "clsx";
 import { SearchIcon } from "@heroicons/react/solid";
 import { TextFieldInput } from "../TextField";

@@ -1,6 +1,5 @@
 import { useState } from "react";
-import { ComponentMeta, ComponentStory, Story } from "@storybook/react";
-import { Button } from "../Button";
+import { ComponentMeta, ComponentStory } from "@storybook/react";
 import { Select } from ".";
 
 export default {
